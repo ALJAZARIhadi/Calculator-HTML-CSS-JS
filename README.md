@@ -1,6 +1,7 @@
 # Calculator-HTML-CSS-JS
 A simple and modern calculator built using HTML, CSS, and JavaScript with basic arithmetic operations and clean UI design.
 
+<img width="742" height="580" alt="Image" src="https://github.com/user-attachments/assets/a404f396-4ccb-42b5-9f18-13946afc20ea" />
 
 # 🧮 Calculator App (HTML, CSS & JavaScript)
 

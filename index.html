@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Calculator</title>
+</head>
+<body>
+    <header>
+        <h2 id="header">A calculator Bulid with HTML CSS && JS</h2>
+    </header>
+    <div class="container">
+        <div class="display">
+            <input type="number " placeholder="I can solve it -__- " id="input"  readonly>
+        </div>
+        <div class="keys">
+            <button onclick="appenToDisplay('7')" class="key number">7</button>
+            <button onclick="appenToDisplay('8')" class="key number">8</button>
+            <button onclick="appenToDisplay('9')" class="key number">9</button>
+            <button onclick="appenToDisplay('+')" class="key-opersinon" id="plus">+</button>
+            <button onclick="appenToDisplay('4')" class="key number">4</button>
+            <button onclick="appenToDisplay('5')" class="key number">5</button>
+            <button onclick="appenToDisplay('6')" class="key number">6</button>
+            <button onclick="appenToDisplay('-')" class="key-opersinon" id="mainous">-</button>
+            <button onclick="appenToDisplay('1')" class="key number">1</button>
+            <button onclick="appenToDisplay('2')" class="key number">2</button>
+            <button onclick="appenToDisplay('3')" class="key number">3</button>
+            <button onclick="appenToDisplay('*')" class="key-opersinon" id="multiple">*</button>
+            <button onclick="clearDisplay()" class="key opersinon" id="clear">C</button>
+            <button onclick="appenToDisplay('0')" class="key number">0</button>
+            <button onclick="calculate()" class="key-opersinon" id="equles">=</button>
+            <button onclick="appenToDisplay('/')" class="key-opersinon" id="devision">/</button>
+            
+        </div>
+    </div>
+
+    <div class="footer">
+        <p>Made by <a href="#">Abdulhadi kezza</a>
+    </div>
+
+
+
+
+
+
+
+    <script src="script.js"></script>
+</body>
+</html>

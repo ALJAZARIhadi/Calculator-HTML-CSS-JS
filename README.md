@@ -45,5 +45,5 @@ The calculator includes:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Calculator-HTML-CSS-JS.git
+   git clone https://github.com/ALJAZARIhadi/Calculator-HTML-CSS-JS.git
 ****
